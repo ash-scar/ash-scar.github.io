@@ -3,11 +3,11 @@
 
 A template for a portfolio developed with Quarto and hosted on GitHub.
 
-This is all configured so you only need to edit the source files in Quarto (.qmd). The website is generated and hosted automatically by GitHub.
-
+This is all configured so 
 ## Using this template
 
-1. Click on green button "Use this Tempalte" -> "Create a new Repo"
+1. Click on green button "Useyou only need to edit the source files in Quarto (.qmd). The website is generated and hosted automatically by GitHub.
+ this Tempalte" -> "Create a new Repo"
 
 1. Choose a name for your repository
 

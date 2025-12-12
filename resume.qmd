@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ashleigh Smith's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ashleigh Smith
+Accounting and Data Science Student
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,11 +13,13 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at BYU-I
+Work at Albertsons as a cake decorator
+Graduate in 2026
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Accounting and Data Science
 
 
 ### Research interests
@@ -27,60 +29,49 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`September 2023 - Current`
+__Brigham Young University-Idaho.__
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+## Experience
 
-Associate, *French Academy of Science*, Paris, France
+`January 2025-April 2025`
+Tax Accountant Intern, Fox Peterson Entrepreneurial Accountants
+
+`January 2024- December 2024`
+Student Expense Report Analyst, Brigham Young University - Idaho
+
+`June 2021- September 2023`
+Team Trainer, Chick-fil-A
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Leadership/Volunteerism
 
-### Journals
+__Rexburg__, Idaho
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Obtained leadership skills as co-captain of the Varsity Volleyball team
+- Volunteered at blood drives and other service activities as a member of the National Honors Society
+- Supervised children for over eight families gaining trust through responsibility and punctuality
 
-`1669`
-Lectiones opticæ.
 
-etc. etc. etc.
+### Skills & Software
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Proficient in Python and Excel
+- Currently learning Power BI and SQL
+- Have a typing Speed of 62 WPM with 98% accuracy
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2025`
+__Rexburg__, Idaho
 
-- Warden
-- Minted coins
+- Cake Decorator
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
